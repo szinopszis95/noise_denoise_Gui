@@ -1,0 +1,13 @@
+QPlainTextEdit {
+color: white;
+background-color: rgb(27, 29, 35);
+border-radius: 5px;
+padding: 10px;
+}
+QPlainTextEdit:hover {
+border: 2px solid;
+border-color: rgb(64, 71, 88);
+}
+QPlainTextEdit:focus {
+border: 2px solid rgb(91, 101, 124);
+}
